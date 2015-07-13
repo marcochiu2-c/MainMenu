@@ -7,7 +7,7 @@ public class ResourceMgr : MonoBehaviour {
 	private static ResourceMgr mInstance;
 	
 	/// <summary>
-	/// Get Asset
+	/// Get Instance
 	/// </summary>
 	/// <returns></returns>
 	public static ResourceMgr GetInstance()
